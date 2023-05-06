@@ -25,9 +25,11 @@ Hey there, I'm Fahim! 👋
 💬 Ask me about my experience working in the Fintech industry, or any programming-related questions! I'm always happy to help and share knowledge.
 
 📫 How to reach me:
+
 [![LinkedIn](https://img.shields.io/badge/-Fahim_Imam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kazi-fahim-imam-0027081a1/)](https://www.linkedin.com/in/kazi-fahim-imam-0027081a1/)
 
-- Email: [fahimimam026@gmail.com](mailto:fahimimam026@gmail.com)
+[![Email](https://img.shields.io/badge/-fahimimam026%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:fahimimam026@gmail.com)]
+
 
 😄 Pronouns: he/him
 
