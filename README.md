@@ -28,7 +28,7 @@ Hey there, I'm Fahim! 👋
 
 [![LinkedIn](https://img.shields.io/badge/-Fahim_Imam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kazi-fahim-imam-0027081a1/)](https://www.linkedin.com/in/kazi-fahim-imam-0027081a1/)
 
-[![Email](https://img.shields.io/badge/-fahimimam026%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:fahimimam026@gmail.com)]
+![Email](https://img.shields.io/badge/-fahimimam026%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto:fahimimam026@gmail.com)]
 
 
 😄 Pronouns: he/him
