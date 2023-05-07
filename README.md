@@ -61,6 +61,8 @@ You can reach me via:
 
 <a href="https://github.com/fahimimam"><img align="left" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
+<a href="https://www.facebook.com/fahim.imam.756"><img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+
 <br/><br/>
 
 I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
