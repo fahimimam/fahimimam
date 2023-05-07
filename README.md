@@ -63,6 +63,9 @@ You can reach me via:
 
 <a href="https://www.facebook.com/fahim.imam.756"><img align="left" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 
+<a href="https://discord.gg/1070996399803613224"><img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+
 <br/><br/>
 
 I'm always open to new opportunities and collaborations, so don't hesitate to reach out!
