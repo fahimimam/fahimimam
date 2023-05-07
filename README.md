@@ -77,7 +77,7 @@ I'm always open to new opportunities and collaborations, so don't hesitate to re
 
 ## Other Interests 🌟
 
-As mentioned earlier, I'm an avid gamer 🎮 and podcast listener 🎧. Some of my favorite games include [insert games], and I enjoy listening to podcasts on topics such as technology, business, and personal development. I'm always on the lookout for new recommendations, so feel free to send them my way!
+As mentioned earlier, I'm an avid gamer 🎮 and podcast listener 🎧. Some of my favorite games include Valorant, Brothers, Call of Duty, Assassins Creed etc, and I enjoy listening to podcasts on topics such as technology, business, and personal development. I'm always on the lookout for new recommendations, so feel free to send them my way!
 
 Thanks for checking out my profile, and I look forward to connecting with you!
 
